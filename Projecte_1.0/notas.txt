@@ -1,0 +1,5 @@
+list details 
+
+1. Crear entrada del menu
+2. En el controller_products.php trabajara cn list_products i el listar em detail products. Si no hi ha res a 404 php.
+3. El menu ira al controlador index.php/module/products (tot en php esta mal)
